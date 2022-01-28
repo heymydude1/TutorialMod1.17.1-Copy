@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-01-24 13:33:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-01-24 13:33:19 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-24 13:32:25 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
