@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:handle",
+    "tutorialmod:amethyst_handle",
+    "tutorialmod:netherite_handle",
+    "tutorialmod:prismarine_handle"
+  ]
+}

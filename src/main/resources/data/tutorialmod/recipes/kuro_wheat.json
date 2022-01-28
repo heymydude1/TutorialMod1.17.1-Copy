@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:kuro_wheat_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:kuro",
+    "count": 9
+  }
+}

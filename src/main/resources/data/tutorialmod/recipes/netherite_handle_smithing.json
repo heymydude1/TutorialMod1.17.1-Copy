@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:handle"
+  },
+  "addition": {
+    "item": "tutorialmod:netherite_nugget"
+  },
+  "result": {
+    "item": "tutorialmod:netherite_handle"
+  }
+}
