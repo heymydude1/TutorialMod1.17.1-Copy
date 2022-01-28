@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "#A#",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:glimmering_amethyst_block"
+    },
+    "P": {
+      "item": "tutorialmod:glimmering_amethyst"
+    },
+    "A": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:glimmering_shield",
+    "count": 1
+  }
+}

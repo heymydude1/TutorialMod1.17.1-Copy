@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tutorialmod:block/nitris_log",
+    "side": "tutorialmod:block/nitris_log"
+  }
+}

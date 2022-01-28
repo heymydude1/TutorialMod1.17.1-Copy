@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:wooden_knife",
+    "tutorialmod:stone_knife",
+    "tutorialmod:golden_knife",
+    "tutorialmod:iron_knife",
+    "tutorialmod:diamond_knife",
+    "tutorialmod:netherite_knife",
+    "tutorialmod:refined_moon_knife",
+    "tutorialmod:glimmered_amethyst_knife",
+    "tutorialmod:blackstone_metal_knife",
+    "tutorialmod:guardian_scale_knife",
+    "tutorialmod:elder_guardian_scale_knife"
+  ]
+}

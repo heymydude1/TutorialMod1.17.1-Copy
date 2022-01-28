@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "tutorialmod:bluestone"
+  },
+  "result": "tutorialmod:bluestone_slab",
+  "count": 2
+}

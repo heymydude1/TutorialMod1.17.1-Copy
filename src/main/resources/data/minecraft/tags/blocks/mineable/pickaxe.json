@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:blackstone_metal_block",
+    "tutorialmod:glimmering_amethyst_block",
+    "tutorialmod:limestone",
+    "tutorialmod:cobbled_limestone",
+    "tutorialmod:limestone_stairs",
+    "tutorialmod:limestone_slab",
+    "tutorialmod:limestone_wall",
+    "tutorialmod:cobbled_limestone_stairs",
+    "tutorialmod:cobbled_limestone_slab",
+    "tutorialmod:cobbled_limestone_wall",
+    "tutorialmod:limestone_button",
+    "tutorialmod:cobbled_limestone_button",
+    "tutorialmod:limestone_pressure_plate",
+    "tutorialmod:cobbled_limestone_pressure_plate",
+    "tutorialmod:cobbled_limestone_wall",
+    "tutorialmod:cobblestone_button",
+    "tutorialmod:cobblestone_pressure_plate",
+    "tutorialmod:mare_diamond_block",
+    "tutorialmod:cirtict_block",
+    "tutorialmod:mare_diamond_ore",
+    "tutorialmod:deepslate_mare_diamond_ore",
+    "tutorialmod:bluestone",
+    "tutorialmod:cobbled_bluestone",
+    "tutorialmod:bluestone_slab",
+    "tutorialmod:cobbled_bluestone_slab",
+    "tutorialmod:bluestone_stairs",
+    "tutorialmod:cobbled_bluestone_stairs",
+    "tutorialmod:cirtict_debris"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:bluestone_rock"
+    },
+    {
+      "item": "tutorialmod:moon_stone_dust"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:bluestone_ignitor"
+  }
+}

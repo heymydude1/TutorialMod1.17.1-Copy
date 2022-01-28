@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:nitris_planks"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:nitris_stairs",
+    "count": 4
+  }
+}

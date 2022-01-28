@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:blackstone_metal_block",
+    "tutorialmod:mare_diamond_block",
+    "tutorialmod:cirtict_block"
+  ]
+}

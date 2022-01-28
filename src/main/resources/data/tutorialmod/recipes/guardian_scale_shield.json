@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "#A#",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:guardian_scale"
+    },
+    "P": {
+      "item": "tutorialmod:curon_brew"
+    },
+    "A": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:guardian_scale_shield",
+    "count": 1
+  }
+}

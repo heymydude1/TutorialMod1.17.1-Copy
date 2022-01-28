@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tutorialmod:block/cirtict_debris_top",
+    "side": "tutorialmod:block/cirtict_debris_side"
+  }
+}

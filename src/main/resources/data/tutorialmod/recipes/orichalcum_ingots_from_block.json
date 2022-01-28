@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:orichalcum_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:orichalcum_ingot",
+    "count": 9
+  }
+}

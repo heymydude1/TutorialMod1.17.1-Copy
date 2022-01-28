@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall",
+  "textures": {
+    "texture": "tutorialmod:block/limestone"
+  }
+}

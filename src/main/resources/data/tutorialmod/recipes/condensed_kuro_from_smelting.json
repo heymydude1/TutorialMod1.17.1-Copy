@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tutorialmod:kuro"
+  },
+  "result": "tutorialmod:condensed_kuro",
+  "experience": 1.0,
+  "cookingtime": 200
+}

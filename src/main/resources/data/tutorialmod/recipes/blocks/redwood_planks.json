@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "tutorialmod:redwood_logs"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:redwood_planks",
+    "count": 4
+  }
+}

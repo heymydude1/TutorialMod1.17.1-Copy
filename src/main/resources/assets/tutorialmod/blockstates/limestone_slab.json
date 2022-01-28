@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tutorialmod:block/limestone_slab"
+    },
+    "type=double": {
+      "model": "tutorialmod:block/limestone"
+    },
+    "type=top": {
+      "model": "tutorialmod:block/limestone_slab_top"
+    }
+  }
+}

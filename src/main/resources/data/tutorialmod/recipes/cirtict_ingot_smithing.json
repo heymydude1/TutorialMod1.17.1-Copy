@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:blackstone_ingot"
+  },
+  "addition": {
+    "item": "tutorialmod:cirtict_scrap"
+  },
+  "result": {
+    "item": "tutorialmod:cirtict_ingot"
+  }
+}

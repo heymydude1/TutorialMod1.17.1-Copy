@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:mare_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:mare_diamond",
+    "count": 9
+  }
+}

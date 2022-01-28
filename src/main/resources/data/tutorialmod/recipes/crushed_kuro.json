@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "tutorialmod:kuro"
+    }
+
+  ],
+    "result": {
+      "item": "tutorialmod:crushed_kuro",
+      "count": 7
+    }
+    }

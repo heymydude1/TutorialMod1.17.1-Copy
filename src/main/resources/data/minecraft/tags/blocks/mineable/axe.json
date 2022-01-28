@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:nitris_log",
+    "tutorialmod:nitris_planks",
+    "tutorialmod:nitris_wood",
+    "tutorialmod:nitris_fence",
+    "tutorialmod:nitris_door",
+    "tutorialmod:stripped_nitris_log",
+    "tutorialmod:stripped_nitris_wood",
+    "tutorialmod:nitris_slab",
+    "tutorialmod:nitris_stairs",
+    "tutorialmod:nitris_fence_gate",
+    "tutorialmod:nitris_button",
+    "tutorialmod:nitris_pressure_plate",
+    "tutorialmod:nitris_trapdoor",
+    "tutorialmod:crop_cutter_block"
+  ]
+}

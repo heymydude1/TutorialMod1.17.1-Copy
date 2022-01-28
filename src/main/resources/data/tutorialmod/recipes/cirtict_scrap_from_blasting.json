@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tutorialmod:cirtict_debris"
+  },
+  "result": "tutorialmod:cirtict_scrap",
+  "experience": 2.0,
+  "cookingtime": 100
+}

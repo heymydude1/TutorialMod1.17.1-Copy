@@ -1,0 +1,369 @@
+{
+  "item.tutorialmod.orichalcum_ingot": "Orichalcum Ingot",
+  "item.tutorialmod.orichalcum_nugget": "Orichalcum Nugget",
+  "item.tutorialmod.raw_orichalcum": "Raw Orichalcum",
+  "item.tutorialmod.dowsing_rod": "Dowsing Rod",
+  "item.tutorialmod.turnip": "Turnip",
+  "item.tutorialmod.coal_sliver": "Coal Sliver",
+  "item.tutorialmod.orichalcum_pickaxe": "Orichalcum Pickaxe",
+  "item.tutorialmod.orichalcum_axe": "Orichalcum Axe",
+  "item.tutorialmod.orichalcum_shovel": "Orichalcum Shovel",
+  "item.tutorialmod.orichalcum_hoe": "Orichalcum Hoe",
+  "item.tutorialmod.orichalcum_sword": "Orichalcum Sword",
+  "item.tutorialmod.orichalcum_paxel": "Orichalcum Paxel",
+
+  "item.tutorialmod.orichalcum_helmet": "Orichalcum Helmet",
+  "item.tutorialmod.orichalcum_chestplate": "Orichalcum Chestplate",
+  "item.tutorialmod.orichalcum_leggings": "Orichalcum Leggings",
+  "item.tutorialmod.orichalcum_boots": "Orichalcum Boots",
+
+  "item.tutorialmod.orichalcum_horse_armor": "Orichalcum Horse Armor",
+
+  "item.tutorialmod.turnip_seeds": "Turnip Seeds",
+  "item.tutorialmod.orichalcum_staff": "Orichalcum Staff",
+  "item.tutorialmod.orichalcum_bow": "Orichalcum Bow",
+  "item.tutorialmod.honey_bucket": "Honey Bucket",
+
+  "block.tutorialmod.orichalcum_block": "Orichalcum Block",
+  "block.tutorialmod.orichalcum_ore": "Orichalcum Ore",
+  "block.tutorialmod.raw_orichalcum_block": "Raw Orichalcum Block",
+  "block.tutorialmod.deepslate_orichalcum_ore": "Deepslate Orichalcum Ore",
+  "block.tutorialmod.speedy_block": "Speedy Block",
+  "block.tutorialmod.orichalcum_stairs": "Orichalcum Stairs",
+  "block.tutorialmod.orichalcum_slab": "Orichalcum Slab",
+  "block.tutorialmod.orichalcum_button": "Orichalcum Button",
+  "block.tutorialmod.orichalcum_pressure_plate": "Orichalcum Pressure Plate",
+  "block.tutorialmod.orichalcum_fence": "Orichalcum Fence",
+  "block.tutorialmod.orichalcum_fence_gate": "Orichalcum Fence Gate",
+  "block.tutorialmod.orichalcum_wall": "Orichalcum Wall",
+  "block.tutorialmod.cherry_blossom_door": "Cherry Blossom Door",
+  "block.tutorialmod.cherry_blossom_trapdoor": "Cherry Blossom Trapdoor",
+  "block.tutorialmod.orichalcum_lamp": "Orichalcum Lamp",
+  "block.tutorialmod.turnip_crop": "Turnip Crop",
+  "block.tutorialmod.pink_rose": "Pink Rose",
+  "block.tutorialmod.potted_pink_rose": "Potted Pink Rose",
+  "block.tutorialmod.orichalcum_blaster": "Orichalcum Blaster",
+  "item.tutorialmod.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.tutorialmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "itemGroup.tutorialmod.course": "Course Tab",
+
+  "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables found!",
+  "item.tutorialmod.dowsing_rode.tooltip.shift": "Right Click to find valuables",
+  "item.tutorialmod.dowsing_rode.tooltip": "Press §eSHIFT§r for more Information",
+
+
+  "item.tutorialmod.redwood_stick": "Redwood Stick",
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.opal": "Opal",
+  "item.tutorialmod.iron_wool": "Iron Wool",
+  "item.tutorialmod.pepper": "Pepper",
+  "item.tutorialmod.wooden_dowsing_rod": "Wooden Dowsing Rod",
+  "item.tutorialmod.ruby_sword": "Ruby Sword",
+  "item.tutorialmod.ruby_axe": "Ruby Axe",
+  "item.tutorialmod.ruby_shovel": "Ruby Shovel",
+  "item.tutorialmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.tutorialmod.ruby_hoe": "Ruby Hoe",
+  "item.tutorialmod.raw_obsicoal": "Raw Obsicoal",
+  "item.tutorialmod.obsicoal_sword": "Obsicoal Sword",
+  "item.tutorialmod.obsicoal_ingot": "Obsicoal Ingot",
+  "item.tutorialmod.obsicoal_axe": "Obsicoal Axe",
+  "item.tutorialmod.new_item": "§5Obsicoal §6Ingot",
+
+
+
+
+  "item.tutorialmod.ruby_helmet": "Ruby Helmet",
+  "item.tutorialmod.ruby_chestplate": "Ruby Chestplate",
+  "item.tutorialmod.ruby_leggings": "Ruby Leggings",
+  "item.tutorialmod.ruby_boots": "Ruby Boots",
+  "item.tutorialmod.ruby_horse_armor": "Ruby Horse Armor",
+  "item.tutorialmod.data_tablet": "Data Tablet",
+  "item.tutorialmod.pepper_seeds": "Pepper Seeds",
+
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.ruby_block": "Ruby Block",
+  "block.tutorialmod.status_block": "Status Block",
+  "block.tutorialmod.ruby_stairs": "Ruby Stairs",
+  "block.tutorialmod.ruby_slab": "Ruby Slab",
+  "block.tutorialmod.ruby_fence": "Ruby Fence",
+  "block.tutorialmod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.tutorialmod.ruby_button": "Ruby Button",
+  "block.tutorialmod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.tutorialmod.ruby_door": "Ruby Door",
+  "block.tutorialmod.ruby_trapdoor": "Ruby Trapdoor",
+  "block.tutorialmod.test_block": "Test Block",
+  "block.tutorialmod.dice_block": "Dice Block",
+  "block.tutorialmod.pepper_plant": "Pepper Plant",
+  "block.tutorialmod.bluebells": "Bluebells",
+  "block.tutorialmod.redwood_log": "Redwood Log",
+  "block.tutorialmod.redwood_planks": "Redwood Planks",
+  "block.tutorialmod.redwood_wood": "Redwood Wood",
+  "block.tutorialmod.stripped_redwood_log": "Stripped Redwood Log",
+  "block.tutorialmod.stripped_redwood_wood": "Stripped Redwood Wood",
+  "block.tutorialmod.redwood_sapling": "Redwood Sapling",
+  "block.tutorialmod.redwood_leaves": "Redwood Leaves",
+  "block.tutorialmod.lightning_channeler": "Lightning Channeler",
+
+  "itemGroup.tutorialmod.ruby": "Ruby Mod",
+  "itemGroup.tutorialmod.general": "Gday",
+  "itemGroup.tutorialmod.ruby_material": "Ruby Materials",
+  "itemGroup.tutorialmod.ruby_weapons": "Ruby Weapons",
+  "itemGroup.tutorialmod.ruby_tools": "Ruby Tools",
+  "itemGroup.tutorialmod.obsicoal_materials": "Obsicoal Materials",
+  "itemGroup.tutorialmod.obsicoal_weapons": "Obsicoal Weapons",
+  "itemGroup.tutorialmod.obsicoal_tools": "Obsicoal Tools",
+  "itemGroup.tutorialmod.course_weapons": "Course Weapons",
+  "itemGroup.tutorialmod.course_blocks": "Course Blocks",
+  "itemGroup.tutorialmod.course_items": "Course Items",
+  "itemGroup.tutorialmod.course_tools": "Course Tools",
+  "itemGroup.tutorialmod.course_armor": "Course Armor",
+  "itemGroup.tutorialmod.course_food": "Course Food",
+  "itemGroup.tutorialmod.course_misc": "Course Misc",
+  "itemGroup.tutorialmod.course_useless": "Course Useless",
+  "itemGroup.tutorialmod.course_plants": "Course Plants",
+
+
+
+  "tooltip.tutorialmod.dowsing_rod": "Hold §eSHIFT§r for more Information!",
+  "tooltip.tutorialmod.dowsing_rod_shift": "Click a Block and discover valuables down below!",
+
+  "enchantment.tutorialmod.lightning_striker": "Lightning Striker",
+
+
+
+
+  "item.tutorialmod.blasted_amethyst": "Blasted Amethyst",
+  "item.tutorialmod.glimmering_amethyst": "Glimmering Amethyst",
+  "item.tutorialmod.moon_stone_dust": "Moonstone Dust",
+  "item.tutorialmod.handle": "Handle",
+  "item.tutorialmod.refined_moon_stone": "Refined Moonstone",
+  "item.tutorialmod.netherite_handle": "Netherite Handle",
+  "item.tutorialmod.blackstone_ingot": "Blackstone Metal Ingot",
+  "item.tutorialmod.mare_diamond": "Mare Diamond",
+  "item.tutorialmod.netherite_nugget": "Netherite Nugget",
+  "item.tutorialmod.amethyst_handle": "Amethyst Handle",
+  "item.tutorialmod.guardian_scale": "Guardian Scale",
+  "item.tutorialmod.elder_guardian_scale": "Elder Guardian Scale",
+  "item.tutorialmod.elder_guardians_eye": "Elder Guardian Eye",
+  "item.tutorialmod.wither_essence": "Wither Essence",
+  "item.tutorialmod.wither_bone": "Wither Bone",
+  "item.tutorialmod.prismarine_handle": "Prismarine Handle",
+  "item.tutorialmod.phantom_essence": "Phantom Essence",
+  "item.tutorialmod.phantom_scale": "Phantom Scale",
+  "item.tutorialmod.cirtict_ingot": "Cirtict Ingot",
+
+
+  "item.tutorialmod.phantom_helmet": "Phantom Scale Helm",
+
+
+  "item.tutorialmod.glimmering_sword": "Glimmered Amethyst Sword",
+  "item.tutorialmod.glimmering_axe": "Glimmered Amethyst Axe",
+  "item.tutorialmod.glimmering_hoe": "Glimmered Amethyst Hoe",
+  "item.tutorialmod.glimmering_pickaxe": "Glimmered Amethyst Pickaxe",
+  "item.tutorialmod.glimmering_shovel": "Glimmered Amethyst Shovel",
+
+  "item.tutorialmod.glimmering_battleaxe": "Glimmered Amethyst Battleaxe",
+
+  "item.tutorialmod.moon_stone_sword": "Refined Moon Sword",
+  "item.tutorialmod.moon_stone_axe": "Refined Moon Axe",
+  "item.tutorialmod.moon_stone_hoe": "Refined Moon Hoe",
+  "item.tutorialmod.moon_stone_pickaxe": "Refined Moon Pickaxe",
+  "item.tutorialmod.moon_stone_shovel": "Refined Moon Shovel",
+
+  "item.tutorialmod.moon_stone_battleaxe": "Refined Moon Battleaxe",
+
+  "item.tutorialmod.blackstone_metal_sword": "Blackstone Metal Sword",
+  "item.tutorialmod.blackstone_metal_axe": "Blackstone Metal Axe",
+  "item.tutorialmod.blackstone_metal_hoe": "Blackstone Metal Hoe",
+  "item.tutorialmod.blackstone_metal_pickaxe": "Blackstone Metal Pickaxe",
+  "item.tutorialmod.blackstone_metal_shovel": "Blackstone Metal Shovel",
+
+  "item.tutorialmod.blackstone_metal_battleaxe": "Blackstone Metal Battleaxe",
+
+  "item.tutorialmod.guardian_scale_sword": "Guardian Scale Sword",
+  "item.tutorialmod.guardian_scale_axe": "Guardian Scale Axe",
+  "item.tutorialmod.guardian_scale_hoe": "Guardian Scale Hoe",
+  "item.tutorialmod.guardian_scale_pickaxe": "Guardian Scale Pickaxe",
+  "item.tutorialmod.guardian_scale_shovel": "Guardian Scale Shovel",
+
+  "item.tutorialmod.guardian_scale_battleaxe": "Guardian Scale Battleaxe",
+
+  "item.tutorialmod.elder_guardian_scale_sword": "Elder Guardian Scale Sword",
+  "item.tutorialmod.elder_guardian_scale_axe": "Elder Guardian Scale Axe",
+  "item.tutorialmod.elder_guardian_scale_hoe": "Elder Guardian Scale Hoe",
+  "item.tutorialmod.elder_guardian_scale_pickaxe": "Elder Guardian Scale Pickaxe",
+  "item.tutorialmod.elder_guardian_scale_shovel": "Elder Guardian Scale Shovel",
+
+  "item.tutorialmod.elder_guardian_scale_battleaxe": "Elder Guardian Scale Battleaxe",
+
+  "item.tutorialmod.netherite_battleaxe": "Netherite Battleaxe",
+
+  "item.tutorialmod.diamond_battleaxe": "Diamond Battleaxe",
+
+  "item.tutorialmod.golden_battleaxe": "Golden Battleaxe",
+  "item.tutorialmod.iron_battleaxe": "Iron Battleaxe",
+  "item.tutorialmod.stone_battleaxe": "Stone Battleaxe",
+  "item.tutorialmod.wooden_battleaxe": "Wooden Battleaxe",
+
+
+  "block.tutorialmod.moon_stone_dust_block": "Moonstone Dust Block",
+  "block.tutorialmod.blackstone_metal_block": "Blackstone Metal Block",
+  "block.tutorialmod.glimmering_amethyst_block": "Glimmering Amethyst Block",
+
+  "block.tutorialmod.limestone": "Limestone",
+  "block.tutorialmod.cobbled_limestone": "Cobbled Limestone",
+  "block.tutorialmod.limestone_slab": "Limestone Slab",
+  "block.tutorialmod.limestone_stairs": "Limestone Stairs",
+  "block.tutorialmod.cobbled_limestone_slab": "Cobbled Limestone Slab",
+  "block.tutorialmod.cobbled_limestone_stairs": "Cobbled Limestone Stairs",
+
+  "block.tutorialmod.nitris_log": "Nitris Log",
+  "block.tutorialmod.nitris_wood": "Nitris Wood",
+  "block.tutorialmod.nitris_planks": "Nitris Planks",
+  "block.tutorialmod.stripped_nitris_log": "Stripped Nitris Log",
+  "block.tutorialmod.stripped_nitris_wood": "Stripped Nitris Wood",
+  "block.tutorialmod.nitris_leaves": "Nitris Leaves",
+  "block.tutorialmod.nitris_sapling": "Nitris Sapling",
+  "block.tutorialmod.nitris_stairs": "Nitris Stairs",
+  "block.tutorialmod.nitris_slab": "Nitris Slab",
+  "block.tutorialmod.nitris_fence": "Nitris Fence",
+  "block.tutorialmod.nitris_fence_gate": "Nitris Fence Gate",
+  "block.tutorialmod.cirtict_block": "Cirtict Block",
+
+  "block.tutorialmod.nitris_button": "Nitris Button",
+  "block.tutorialmod.nitris_pressure_plate": "Nitris Pressure Plate",
+  "block.tutorialmod.cobblestone_button": "Cobblestone Button",
+  "block.tutorialmod.cobblestone_pressure_plate": "Cobblestone Pressure Plate",
+  "block.tutorialmod.limestone_button": "Limestone Button",
+  "block.tutorialmod.cobbled_limestone_button": "Cobbled Limestone Button",
+  "block.tutorialmod.limestone_pressure_plate": "Limestone Pressure Plate",
+  "block.tutorialmod.cobbled_limestone_pressure_plate": "Cobbled Limestone Pressure Plate",
+  "block.tutorialmod.nitris_door": "Nitris Door",
+  "block.tutorialmod.nitris_trapdoor": "Nitris Trapdoor",
+
+  "block.tutorialmod.mare_diamond_block": "Mare Diamond Block",
+  "block.tutorialmod.mare_diamond_ore_block": "Mare Diamond Ore",
+  "block.tutorialmod.deepslate_mare_diamond_ore": "Deepslate Mare Diamond Ore",
+
+
+  "itemGroup.tutorialmod.more_weaponry": "More Weaponry",
+
+
+  "item.tutorialmod.glimmering_chestplate": "Glimmered Amethyst Chestplate",
+  "item.tutorialmod.glimmering_boots": "Glimmered Amethyst Boots",
+  "item.tutorialmod.glimmering_helmet": "Glimmered Amethyst Helm",
+  "item.tutorialmod.glimmering_leggings": "Glimmered Amethyst Leggings",
+
+  "item.tutorialmod.moon_stone_chestplate": "Refined Moon Chestplate",
+  "item.tutorialmod.moon_stone_boots": "Refined Moon Boots",
+  "item.tutorialmod.moon_stone_helmet": "Refined Moon Helm",
+  "item.tutorialmod.moon_stone_leggings": "Refined Moon Leggings",
+
+  "item.tutorialmod.blackstone_metal_chestplate": "Blackstone Metal Chestplate",
+  "item.tutorialmod.blackstone_metal_boots": "Blackstone Metal Boots",
+  "item.tutorialmod.blackstone_metal_helmet": "Blackstone Metal Helm",
+  "item.tutorialmod.blackstone_metal_leggings": "Blackstone Metal Leggings",
+
+  "item.tutorialmod.elder_guardian_scale_chestplate": "Elder Scale Chestplate",
+  "item.tutorialmod.elder_guardian_scale_boots": "Elder Scale Boots",
+  "item.tutorialmod.elder_guardian_scale_helmet": "Elder Scale Helm",
+  "item.tutorialmod.elder_guardian_scale_leggings": "Elder Scale Leggings",
+
+  "item.tutorialmod.guardian_scale_chestplate": "Guardian Scale Chestplate",
+  "item.tutorialmod.guardian_scale_boots": "Guardian Scale Boots",
+  "item.tutorialmod.guardian_scale_helmet": "Guardian Scale Helm",
+  "item.tutorialmod.guardian_scale_leggings": "Guardian Scale Leggings",
+
+
+  "block.tutorialmod.kuro_plant": "Kuro Seeds",
+  "item.tutorialmod.kuro": "Kuro Wheat",
+  "item.tutorialmod.kuro_bread": "Kuro Bread",
+  "item.tutorialmod.crushed_kuro": "Crushed Kuro",
+  "item.tutorialmod.condensed_kuro": "Condensed Kuro",
+  "block.tutorialmod.kuro_wheat_block": "Kuro Bale",
+  "block.tutorialmod.night_curon": "Night Curon Flower",
+  "item.tutorialmod.curon_brew": "Night Curon Brew",
+  "item.tutorialmod.nitris_bowl": "Nitris Bowl",
+  "item.tutorialmod.curon_flower_petals": "Night Curon Flower Petal",
+
+
+  "enchantment.tutorialmod.thundering": "Thundering",
+  "enchantment.tutorialmod.evokers_revenge": "Evoker's Revenge",
+  "enchantment.tutorialmod.auto_mending": "Auto Mending",
+  "enchantment.tutorialmod.power_of_the_wither": "Withering Power",
+  "enchantment.tutorialmod.stray_bonage": "Stray Bonage",
+
+
+  "item.tutorialmod.glimmering_shield": "Glimmered Amethyst Shield",
+  "item.tutorialmod.blackstone_metal_shield": "Blackstone Metal Shield",
+  "item.tutorialmod.moon_stone_shield": "Refined Moon Shield",
+  "item.tutorialmod.elder_scale_shield": "Elder Scale Shield",
+  "item.tutorialmod.guardian_scale_shield": "Guardian Scale Shield",
+
+
+  "item.tutorialmod.wooden_knife": "Wooden Knife",
+  "item.tutorialmod.stone_knife": "Stone Knife",
+  "item.tutorialmod.iron_knife": "Iron Knife",
+  "item.tutorialmod.golden_knife": "Golden Knife",
+  "item.tutorialmod.diamond_knife": "Diamond Knife",
+  "item.tutorialmod.netherite_knife": "Netherite Knife",
+  "item.tutorialmod.refined_moon_knife": "Refined Moon Knife",
+  "item.tutorialmod.glimmered_amethyst_knife": "Glimmered Amethyst Knife",
+  "item.tutorialmod.blackstone_metal_knife": "Blackstone Metal Knife",
+  "item.tutorialmod.guardian_scale_knife": "Guardian Scale Knife",
+  "item.tutorialmod.elder_guardian_scale_knife": "Elder Guardian Scale Knife",
+
+
+  "item.tutorialmod.elder_scale_trident": "Elder Scale Trident (WIP)",
+  "item.tutorialmod.hellfire_broad_axe": "Hellfire Broad Axe (WIP)",
+
+  "item.tutorialmod.cirtict_battleaxe": "Cirtict Battleaxe",
+  "item.tutorialmod.heated_cirtict_battleaxe": "Heated Cirtict Battleaxe",
+
+
+  "block.tutorialmod.limestone_wall": "Limestone Wall",
+  "block.tutorialmod.cobbled_limestone_wall": "Cobbled Limestone Wall",
+
+
+  "item.tutorialmod.heated_cirtict_battleaxe.tooltip": "Can You Handle The Heat?",
+  "item.tutorialmod.phantom_scale_helm.tooltip": "Gives You The Powers Of The Phantom",
+  "item.tutorialmod.phantom_scale_helm_two.tooltip": "Grants Slow Falling While Equipped",
+
+
+  "block.tutorialmod.crop_cutter_block": "Crop Cutter",
+
+  "block.tutorialmod.mare_diamond_ore": "Mare Diamond Ore",
+  "block.tutorialmod.bluestone": "Bluestone",
+  "block.tutorialmod.cobbled_bluestone": "Cobbled Bluestone",
+  "block.tutorialmod.bluestone_slab": "Bluestone Slab",
+  "block.tutorialmod.cobbled_bluestone_slab": "Cobbled Bluestone Slab",
+  "block.tutorialmod.bluestone_stairs": "Bluestone Stairs",
+  "block.tutorialmod.cobbled_bluestone_stairs": "Cobbled Bluestone Stairs",
+
+  "item.tutorialmod.bluestone_rock": "Bluestone Rock",
+  "item.tutorialmod.bluestone_ignitor": "Bluestone Ignitor",
+  "item.tutorialmod.bluestone_ignitor.tooltip": "Use To Ignite The Cold Dark Portal",
+  "block.tutorialmod.cirtict_debris": "Cirtict Debris",
+  "item.tutorialmod.cirtict_scrap": "Cirtict Scrap",
+  "block.tutorialmod.bluestone_wall": "Bluestone Wall",
+  "block.tutorialmod.cobbled_bluestone_wall": "Cobbled Bluestone Wall",
+
+
+  "block.tutorialmod.potted_night_curon": "Potted Night Curon",
+
+
+  "item.tutorialmod.wardens_step_music_disc": "Music Disc",
+  "item.tutorialmod.wardens_step_music_disc.desc": "DakotaPride - Warden's Step",
+  "item.tutorialmod.elder_scale_bow": "Elder Scale Bow",
+  "item.tutorialmod.nitris_sign": "Nitris Sign",
+  "block.tutorialmod.nitris_sign": "Nitris Sign"
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tutorialmod:block/crop_cutter_block" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "#A#",
+    " A "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:blackstone_metal_block"
+    },
+    "P": {
+      "item": "tutorialmod:blackstone_ingot"
+    },
+    "A": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:blackstone_metal_shield",
+    "count": 1
+  }
+}

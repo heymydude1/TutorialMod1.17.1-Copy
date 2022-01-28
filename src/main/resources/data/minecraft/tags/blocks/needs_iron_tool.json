@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:mare_diamond_block",
+    "tutorialmod:mare_diamond_ore",
+    "tutorialmod:deepslate_mare_diamond_ore"
+  ]
+}

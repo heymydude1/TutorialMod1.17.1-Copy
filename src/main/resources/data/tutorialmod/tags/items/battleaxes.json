@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:moon_stone_battleaxe",
+    "tutorialmod:glimmering_battleaxe",
+    "tutorialmod:blackstone_metal_battleaxe",
+    "tutorialmod:guardian_scale_battleaxe",
+    "tutorialmod:elder_guardian_scale_battleaxe"
+  ]
+}

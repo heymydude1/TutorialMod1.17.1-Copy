@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "MMM",
+        "MMM"
+    ],
+    "key": {
+        "#": {
+            "item": "tutorialmod:netherite_nugget"
+        },
+        "M": {
+            "item": "tutorialmod:blackstone_ingot"
+        }
+    },
+    "result": {
+        "item": "tutorialmod:blackstone_metal_chestplate",
+        "count": 1
+    }
+}

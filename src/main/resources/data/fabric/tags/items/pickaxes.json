@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:ruby_pickaxe",
+    "tutorialmod:glimmering_pickaxe",
+    "tutorialmod:moon_stone_pickaxe",
+    "tutorialmod:blackstone_metal_pickaxe",
+    "tutorialmod:guardian_scale_pickaxe",
+    "tutorialmod:elder_guardian_scale_pickaxe"
+  ]
+}

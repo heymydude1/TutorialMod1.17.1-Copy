@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:cirtict_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:cirtict_ingot",
+    "count": 9
+  }
+}

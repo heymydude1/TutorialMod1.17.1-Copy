@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "tutorialmod:cobbled_bluestone"
+  },
+  "result": "tutorialmod:cobbled_bluestone_wall",
+  "count": 1
+}

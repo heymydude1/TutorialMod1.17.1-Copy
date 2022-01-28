@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:limestone_wall",
+    "tutorialmod:cobbled_limestone_wall",
+    "tutorialmod:bluestone_wall",
+    "tutorialmod:cobbled_bluestone_wall"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:ruby_axe",
+    "tutorialmod:glimmering_axe",
+    "tutorialmod:moon_stone_axe",
+    "tutorialmod:blackstone_metal_axe",
+    "tutorialmod:guardian_scale_axe",
+    "tutorialmod:elder_guardian_scale_axe"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:guardian_scale_chestplate"
+  },
+  "addition": {
+    "item": "tutorialmod:elder_guardian_scale"
+  },
+  "result": {
+    "item": "tutorialmod:elder_guardian_scale_chestplate"
+  }
+}

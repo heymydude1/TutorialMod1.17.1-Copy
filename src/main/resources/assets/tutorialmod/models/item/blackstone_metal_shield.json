@@ -1,0 +1,14 @@
+{
+  "parent":"fabricshieldlib:item/fabric_shield",
+  "textures":{
+    "shield":"tutorialmod:item/blackstone_metal_shield"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "tutorialmod:item/blackstone_metal_shield_blocking"
+    }
+  ]
+}

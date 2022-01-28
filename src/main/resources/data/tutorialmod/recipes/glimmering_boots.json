@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "# #",
+        "M M"
+    ],
+    "key": {
+        "#": {
+            "item": "tutorialmod:moon_stone_dust"
+        },
+        "M": {
+            "item": "tutorialmod:glimmering_amethyst"
+        }
+    },
+    "result": {
+        "item": "tutorialmod:glimmering_boots",
+        "count": 1
+    }
+}

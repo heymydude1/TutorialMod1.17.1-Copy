@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " IX",
+    " #I",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:amethyst_handle"
+    },
+    "X": {
+      "item": "tutorialmod:glimmering_amethyst"
+    },
+    "I": {
+      "item": "tutorialmod:moon_stone_dust"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:glimmering_axe"
+  }
+}

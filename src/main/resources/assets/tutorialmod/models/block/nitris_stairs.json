@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "tutorialmod:block/nitris_planks",
+    "top": "tutorialmod:block/nitris_planks",
+    "side": "tutorialmod:block/nitris_planks"
+  }
+}

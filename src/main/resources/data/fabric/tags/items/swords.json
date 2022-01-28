@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:ruby_swords",
+    "tutorialmod:glimmering_sword",
+    "tutorialmod:moon_stone_sword",
+    "tutorialmod:blackstone_metal_sword",
+    "tutorialmod:guardian_scale_sword",
+    "tutorialmod:elder_guardian_scale_sword"
+  ]
+}

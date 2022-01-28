@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:cobblestone_button",
+    "count": 1
+  }
+}

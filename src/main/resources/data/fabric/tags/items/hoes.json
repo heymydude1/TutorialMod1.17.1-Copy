@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:ruby_hoe",
+    "tutorialmod:glimmering_hoe",
+    "tutorialmod:moon_stone_hoe",
+    "tutorialmod:blackstone_metal_hoe",
+    "tutorialmod:guardian_scale_hoe",
+    "tutorialmod:elder_guardian_scale_hoe"
+  ]
+}

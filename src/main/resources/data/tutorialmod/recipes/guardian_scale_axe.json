@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " IX",
+    " #I",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:prismarine_handle"
+    },
+    "X": {
+      "item": "tutorialmod:prismarine_shard"
+    },
+    "I": {
+      "item": "tutorialmod:guardian_scale"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:guardian_scale_axe"
+  }
+}

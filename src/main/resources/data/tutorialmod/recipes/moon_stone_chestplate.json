@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "MMM",
+        "MMM"
+    ],
+    "key": {
+        "#": {
+            "item": "tutorialmod:moon_stone_dust"
+        },
+        "M": {
+            "item": "tutorialmod:refined_moon_stone"
+        }
+    },
+    "result": {
+        "item": "tutorialmod:moon_stone_chestplate",
+        "count": 1
+    }
+}

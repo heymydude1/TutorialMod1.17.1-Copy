@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:nitris_log",
+    "tutorialmod:nitris_wood",
+    "tutorialmod:stripped_nitris_log",
+    "tutorialmod:stripped_nitris_wood"
+  ]
+}

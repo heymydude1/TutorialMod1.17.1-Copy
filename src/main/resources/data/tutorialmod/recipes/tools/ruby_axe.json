@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:redwood_stick"
+    },
+    "X": {
+      "item": "tutorialmod:ruby"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:ruby_axe"
+  }
+}

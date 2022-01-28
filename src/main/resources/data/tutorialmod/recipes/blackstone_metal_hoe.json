@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  X",
+    " #I",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:netherite_handle"
+    },
+    "X": {
+      "item": "tutorialmod:blackstone_ingot"
+    },
+    "I": {
+      "item": "tutorialmod:netherite_nugget"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:blackstone_metal_hoe"
+  }
+}

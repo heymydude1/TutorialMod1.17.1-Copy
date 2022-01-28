@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tutorialmod:block/glimmering_amethyst_block"
+  }
+}

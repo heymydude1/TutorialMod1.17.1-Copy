@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "MN ",
+    "BNW"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:crushed_kuro"
+    },
+    "M": {
+      "item": "tutorialmod:night_curon"
+    },
+    "N": {
+      "item": "tutorialmod:curon_flower_petals"
+    },
+    "B": {
+      "item": "tutorialmod:nitris_bowl"
+    },
+    "W": {
+      "item": "minecraft:wither_rose"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:curon_brew",
+    "count": 1
+  }
+}
